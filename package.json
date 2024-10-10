@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-hot": "^0.0.1",
     "react-scripts": "^5.0.1",
+    "toast": "^0.5.4",
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
